@@ -1,0 +1,27 @@
+.boxbg{
+    background-color:#101820FF;
+    width:45%;
+    height:100px;
+    margin-left:350px;
+    margin-top:150px;
+    border:2px solid #101820FF;
+    border-radius:20px;
+}
+.addtitle{
+    text-align:left;
+    color: #F2AA4CFF;
+    margin-left:40px;
+    margin-top:30px;
+    
+}
+.deletebtn{
+    width:100px;
+    height:50px;
+    background-color:#F2AA4CFF;
+    color:#101820FF;
+    float: right;
+    font-size: medium;
+    font-weight:bold;
+    margin-top:-50px;
+    margin-right:20px;
+}

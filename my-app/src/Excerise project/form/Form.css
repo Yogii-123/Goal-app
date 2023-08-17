@@ -1,0 +1,36 @@
+.formbg{
+    width: 45%;
+    height:120px;
+    background-color:#F2AA4CFF;
+    margin-left:350px;
+    margin-top:100px;
+    border:2px solid #101820FF;
+    border-radius:20px;
+
+}
+.title{
+    font-size:larger;
+    margin-left:40px;
+    font-weight:bolder;
+    color: #101820FF;
+ }
+.textarea{
+    width:70%;
+    margin-left:40px;
+    margin-top:10px;
+
+}
+.addbtn{
+    background-color:#101820FF;
+    color:#F2AA4CFF;
+    margin-left:400px;
+    margin-top:10px;
+    font-size: medium;
+    font-weight:bold;
+    width:100px;
+    height:40px;
+}
+.invaild1{
+    border-color: red;
+    background-color: red;
+}

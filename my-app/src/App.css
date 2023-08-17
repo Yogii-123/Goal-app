@@ -1,0 +1,15 @@
+.nofound{
+  background-color:#101820FF;
+  width:45%;
+  height:100px;
+  margin-left:350px;
+  margin-top:150px;
+  border:2px solid #101820FF;
+  border-radius:20px;
+
+}
+.nofound{
+  font-size:larger;
+  text-align:center;
+  color: #F2AA4CFF;
+}
